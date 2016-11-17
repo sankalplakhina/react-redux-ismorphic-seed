@@ -1,0 +1,12 @@
+{
+  "generator-racket": {
+    "generatorVersion": "1.6.0",
+    "appName": "racket",
+    "filters": {
+      "less": true,
+      "reduxSaga": false,
+      "reduxThunk": true,
+      "reduxForm": true
+    }
+  }
+}
